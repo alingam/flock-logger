@@ -1,0 +1,20 @@
+{
+  "name": "flock-logger",
+  "version": "0.0.2",
+  "description": "A simple DB Logging Module for flock Apps.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "flock-logger"
+  },
+  "keywords": [
+    "DBlogger",
+    "logger",
+    "flock",
+    "log"
+  ],
+  "author": {
+    "name": "Rajarethenam Velayutham"
+  },
+  "license": "MIT"
+}
